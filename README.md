@@ -3,6 +3,10 @@ Desarrollé un método automatizado para segmentar C. elegans en imágenes del r
 
 ![alt text](https://github.com/Arierrot/WormSegmentation/blob/main/icons/output_example.png)
 
+<p align="center">
+  <img src="[https://github.com/Arierrot/WormSegmentation/blob/main/icons/output_example.png]" />
+</p>
+
 ## Descripción
 
 Se trabaja con imágenes multicanal en las que cada canal representa una información específica:
