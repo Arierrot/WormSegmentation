@@ -1,0 +1,6 @@
+matplotlib==3.10.1
+numpy==2.2.4
+opencv_contrib_python==4.11.0.86
+scipy==1.15.2
+skimage==0.0
+tifffile==2025.1.10
